@@ -10,4 +10,4 @@ def oxford_comma(array)
 end
 end
 
-#{array[0..-2].join(", ")} and #{array.last}". "#{}" 
+
